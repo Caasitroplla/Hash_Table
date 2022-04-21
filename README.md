@@ -6,7 +6,7 @@ This is a module that can be used to create a hash table. Here are the following
 `Table()` does not take any inputs.
 
 | Command | Operation |
-| - - - | - - - |
+| --- | --- |
 | `add(key, value)` | Adds a new element to the hash table |
 | `delete(key)` | Removes the element access by the key |
 | `get(key)` | Returns the value stores at key location |
